@@ -27,3 +27,14 @@ Cowabungga
     git config --global user.name "ChungUnChi"
     cw
 ```
+
+
+## 2023_02_14
+  * first 
+      * my package 
+          * make node, and exceute
+      * mpub
+      * msub
+      * mtpub
+      * tsub
+      * move_turtle
